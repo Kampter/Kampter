@@ -51,7 +51,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kampter&show_icons=true&count_private=true&hide_border=true&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kampter&hide_border=true&stroke=00f5d4&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakNum=c9d1d9&currStreakLabel=00f5d4&sideNums=c9d1d9&sideLabels=00f5d4&dates=c9d1d9" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Kampter&hide_border=true&stroke=00f5d4&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakNum=c9d1d9&currStreakLabel=00f5d4&sideNums=c9d1d9&sideLabels=00f5d4&dates=c9d1d9" />
 </div>
 
 <br/>

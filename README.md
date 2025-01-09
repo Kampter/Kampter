@@ -1,20 +1,67 @@
-### Hi there 👋 I'm [Kampter]
+<div align="center">
+  
+  # Hello Universe, I'm Kampter 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kampter&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <a href="https://github.com/Kampter">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Explorer;Smart+Contract+Engineer" alt="Typing SVG" />
+  </a>
 
-### 🔥 My Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kampter&theme=dark)](https://git.io/streak-stats)
+</div>
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kampter&layout=compact)
+<br/>
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/>
-</p>
+## About Me 💫
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kampter)
+> Exploring the intersection of blockchain and modern web technologies. Building the future of decentralized applications with a focus on user experience and scalability.
+
+<br/>
+
+## Tech Radar 🛠
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,rust,move,solidity,nodejs,next,tailwind&theme=dark" />
+</div>
+
+<br/>
+
+## Projects 🌟
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Web3 Distributed Counter</h3>
+      <div align="center">
+        <p>A decentralized counter built on Sui blockchain showcasing Move smart contracts integration.</p>
+        <p><strong>Tech Stack:</strong> React, TypeScript, Move</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">
+        <p>Your second project description here.</p>
+        <p><strong>Tech Stack:</strong> Technologies used</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## GitHub Analytics ⚡
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kampter&show_icons=true&count_private=true&hide_border=true&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kampter&hide_border=true&stroke=00f5d4&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakNum=c9d1d9&currStreakLabel=00f5d4&sideNums=c9d1d9&sideLabels=00f5d4&dates=c9d1d9" />
+</div>
+
+<br/>
+
+## Activity Graph 📊
+
+[![Kampter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kampter&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kampter&color=00f5d4&style=flat&label=Profile+Views" />
+</div>

@@ -29,17 +29,17 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Web3 Distributed Counter</h3>
+      <h3 align="center">KapKap</h3>
       <div align="center">
         <p>A decentralized counter built on Sui blockchain showcasing Move smart contracts integration.</p>
         <p><strong>Tech Stack:</strong> React, TypeScript, Move</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Kinance</h3>
       <div align="center">
-        <p>Your second project description here.</p>
-        <p><strong>Tech Stack:</strong> Technologies used</p>
+        <p>My personal Finance Dapp</p>
+        <p><strong>Tech Stack:</strong>Sui Move</p>
       </div>
     </td>
   </tr>

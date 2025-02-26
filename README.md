@@ -2,7 +2,7 @@
   
   # Hello Universe, I'm Kampter 🚀
 
-  <a href="https://github.com/Kampter">
+  <a href="https://kampter.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Explorer;Smart+Contract+Engineer" alt="Typing SVG" />
   </a>
 
@@ -12,34 +12,46 @@
 
 ## About Me 💫
 
-> Exploring the intersection of blockchain and modern web technologies. Building the future of decentralized applications with a focus on user experience and scalability.
+> **Game Developer Turned Blockchain Architect**  
+> Bridging virtual economies since 2018. Built systems handling 50M+ player interactions for HoYoverse/TapTap. Now pioneering:  
+> - 🛡️ Secure asset protocols on Sui using Move
+> - 📊 On-chain analytics pipelines
+> - 🎮 Decentralized gaming primitives
+
+**Core Stack**: `Move` · `React TS` · `Rust` · `Solidity`  
+**Data DNA**: Scrapy-Redis集群 (1k reqs/min) · Tableau · QuickBI · CMMI  
+**Game Cred**: GGJ2023 Finalist · TA in Project ELE · UE Shader Development
 
 <br/>
 
 ## Tech Radar 🛠
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,rust,move,solidity,nodejs,next,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,rust,move,solidity,python,nodejs,next,tailwind,aws,redis,grafana&theme=dark" />
 </div>
 
 <br/>
 
-## Projects 🌟
+## Pro Highlights 🌟
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">KapKap</h3>
+      <h3 align="center">Sui Ecosystem</h3>
       <div align="center">
-        <p>A decentralized counter built on Sui blockchain showcasing Move smart contracts integration.</p>
-        <p><strong>Tech Stack:</strong> React, TypeScript, Move</p>
+        <p>Building object-centric DeFi/Gaming infra with Move</p>
+        <p>▲ KapKap: State management prototype</p>
+        <p>▲ Kinance: On-chain asset toolkit</p>
+        <p><strong>Innovation:</strong> ZK-proof integrations · Gas optimizations</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Kinance</h3>
+      <h3 align="center">Game Analytics</h3>
       <div align="center">
-        <p>My personal Finance Dapp</p>
-        <p><strong>Tech Stack:</strong>Sui Move</p>
+        <p>Architected monitoring systems for 5M+ DAU titles</p>
+        <p>▲ NLP舆情模型 (F1=0.89)</p>
+        <p>▲ 分布式爬虫集群 @1k/min</p>
+        <p><strong>Impact:</strong> +15% 留存率 · 35+ 数据指标重构</p>
       </div>
     </td>
   </tr>
@@ -47,21 +59,14 @@
 
 <br/>
 
-## GitHub Analytics ⚡
+## Creative Core 🎨
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kampter&show_icons=true&count_private=true&hide_border=true&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Kampter&hide_border=true&stroke=00f5d4&background=0d1117&ring=00f5d4&fire=00f5d4&currStreakNum=c9d1d9&currStreakLabel=00f5d4&sideNums=c9d1d9&sideLabels=00f5d4&dates=c9d1d9" />
-</div>
-
-<br/>
-
-## Activity Graph 📊
-
-[![Kampter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kampter&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kampter&color=00f5d4&style=flat&label=Profile+Views" />
-</div>
+```rust
+// 游戏开发者模式
+impl GameCreator {
+    fn create(&self) {
+        shaders!("风格化渲染 · 后处理特效"); 
+        game_jams!("GGJ2023 决赛项目");
+        reverse_engineering!("游戏安全攻防");
+    }
+}

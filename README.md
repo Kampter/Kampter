@@ -13,7 +13,7 @@
 ## About Me 💫
 
 > **Game Developer Turned Blockchain Architect**  
-> Bridging virtual economies since 2018. Built systems handling 50M+ player interactions for HoYoverse/TapTap. Now pioneering:  
+> Bridging virtual economies since 2020. Built systems handling 50M+ player interactions for HoYoverse/TapTap. Now pioneering:  
 > - 🛡️ Secure asset protocols on Sui using Move
 > - 📊 On-chain analytics pipelines
 > - 🎮 Decentralized gaming primitives
@@ -40,7 +40,7 @@
       <h3 align="center">Sui Ecosystem</h3>
       <div align="center">
         <p>Building object-centric DeFi/Gaming infra with Move</p>
-        <p>▲ KapKap: State management prototype</p>
+        <p>▲ KamKam: Game Platform on Sui</p>
         <p>▲ Kinance: On-chain asset toolkit</p>
         <p><strong>Innovation:</strong> ZK-proof integrations · Gas optimizations</p>
       </div>

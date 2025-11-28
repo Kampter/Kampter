@@ -2,7 +2,7 @@
   
   # Hello Universe, I'm Kampter 🚀
 
-  -- Click below to visit my personal website --
+  Click right to visit my personal website -> 
   <a href="https://kampter.github.io">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Explorer;Backend+Engineer" alt="Typing SVG" />
   </a>

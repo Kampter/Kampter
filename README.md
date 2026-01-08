@@ -1,4 +1,4 @@
-# <YOUR_NAME>
+# Kampter
 
 Building systems that measure, learn, and compound.
 
@@ -25,43 +25,21 @@ Building systems that measure, learn, and compound.
 
 ---
 
-## Selected Work 精选项目
-
-- [**Data Platform**](<PINNED_REPO_1_URL>) — Analytics pipelines, experimentation infra, metrics that drive decisions. `SQL` `Athena` `Python`
-
-- [**Trading Infra**](<PINNED_REPO_2_URL>) — Low-latency ingestion, order book reconstruction, microstructure factor research. `Rust` `performance` `quant`
-
-- [**Agentic Simulator**](<PINNED_REPO_3_URL>) — Synthetic users in sandboxes for growth optimization. Privacy-first, probability-driven. `agents` `simulation` `growth`
-
-- [**Privacy Tooling**](<PINNED_REPO_4_URL>) — Ephemeral data pipelines, consent-aware collection, data sovereignty patterns. `privacy` `infrastructure`
-
----
-
 ## Stack 技术栈
 
 `Rust` `Python` `SQL` `TypeScript` `Athena` `MySQL` `AWS` `GCP`
 
 ---
 
-## Craft 手作
-
-Ceramics and horticulture as counterweight to code.
-
-Slow work. Irreversible decisions. Learning to see what emerges rather than what was planned.
-
----
-
 ## Contact 联系
 
-- [GitHub](https://github.com/<YOUR_HANDLE>)
-- [Blog](<YOUR_BLOG_URL>)
-- [Email](mailto:<YOUR_EMAIL>)
-- [X / Twitter](https://x.com/<YOUR_HANDLE>)
-- [LinkedIn](https://linkedin.com/in/<YOUR_HANDLE>)
+- [GitHub](https://github.com/kampter)
+<!-- - [Blog](<YOUR_BLOG_URL>) -->
+- [Email](mailto:Kampter@proton.me)
+- [X / Twitter](https://x.com/kampter)
+<!-- - [LinkedIn](https://linkedin.com/in/<YOUR_HANDLE>) -->
 
 ---
-
-<sub><YOUR_CITY></sub>
 
 <!--
 ## Auto-updating sections (optional)

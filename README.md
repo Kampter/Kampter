@@ -2,8 +2,6 @@
 
 Building systems that measure, learn, and compound.
 
-> Anything added dilutes everything else.
-
 ---
 
 ## Now 此刻
@@ -33,8 +31,7 @@ Building systems that measure, learn, and compound.
 
 ## Contact 联系
 
-- [GitHub](https://github.com/kampter)
-<!-- - [Blog](<YOUR_BLOG_URL>) -->
+- [GitHub](https://github.com/kampter) <!-- - [Blog](<YOUR_BLOG_URL>) -->
 - [Email](mailto:Kampter@proton.me)
 - [X / Twitter](https://x.com/kampter)
 <!-- - [LinkedIn](https://linkedin.com/in/<YOUR_HANDLE>) -->

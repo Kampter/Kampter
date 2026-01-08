@@ -33,7 +33,7 @@ Building systems that measure, learn, and compound.
 
 - [GitHub](https://github.com/kampter) <!-- - [Blog](<YOUR_BLOG_URL>) -->
 - [Email](mailto:Kampter@proton.me)
-- [X / Twitter](https://x.com/kampter)
+- [X](https://x.com/kampter)
 <!-- - [LinkedIn](https://linkedin.com/in/<YOUR_HANDLE>) -->
 
 ---
